@@ -28,7 +28,6 @@ implementing more Task and Feature to make your candidature more solid.
 `Github link : https://github.com/winsoft-technologies/2020-interns`
 
 
-
 ##### Your work is to submit any one or all of the below mentioned tasks
 
 `Applicable to [T1], [T2], and [T3]: Historic data can be found using data.json file`
